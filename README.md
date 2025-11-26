@@ -1,4 +1,4 @@
-# 💻 Portfolio de Programación - Pablo Alba
+# 💻 Portfolio de Programación - Pablo Abad Ortega
 
 ¡Bienvenido/a a mi portfolio de código!
 
